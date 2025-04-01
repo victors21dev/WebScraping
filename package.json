@@ -19,6 +19,9 @@
   "homepage": "https://github.com/victors21dev/WebScraping#readme",
   "dependencies": {
     "axios": "^1.8.4",
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.0"
   }
 }
